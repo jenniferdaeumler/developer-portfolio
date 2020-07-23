@@ -22,10 +22,13 @@ h1 {
   margin: auto;
   
 }
-.badge{
+.btn{
     margin: auto;
     font-family: 'Open Sans', sans-serif;
 }
-.contact{
+/* .contact{
    font-size: 30px;
-}
+} */
+/* .row-contact{
+  margin-left: 20px;
+} */

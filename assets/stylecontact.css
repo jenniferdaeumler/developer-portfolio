@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  font-family: "Bebas Neue", cursive;
+  font-size: 4.5rem;
+  margin: auto;
+}
+.col-md-6 {
+  margin: auto;
+}
+.col-12 {
+  margin: auto;
+  
+}
+.badge{
+    margin: auto;
+}
+.contact{
+   font-size: 30px;
+}

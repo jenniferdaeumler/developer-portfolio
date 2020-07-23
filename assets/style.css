@@ -1,0 +1,36 @@
+body{
+ border: 5px;
+ border-color: black;
+}
+
+.container-fluid {
+  font-family: "Roboto" sans-serif;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(58, 57, 57);
+}
+
+.col-md-9 {
+  font-family: "Roboto" sans-serif;
+  font-size: 18px;
+  text-align: center;
+  color: rgb(58, 57, 57);
+}
+.col-md-3{
+   text-align: center;
+}
+img {
+  align-items: center;
+}
+
+.navbar-brand {
+  font-family: "Roboto", sans-serif;
+}
+
+.nav-link {
+  font-family: "Roboto" sans-serif;
+}
+

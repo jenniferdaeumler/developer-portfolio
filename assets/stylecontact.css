@@ -1,7 +1,18 @@
+body {
+  min-height: 100vh;
+  /* height: 100%; */
+  margin: 0;
+  padding: 0;
+  position: relative;
+  border: 8px solid #000;
+    margin: 0;
+}
+
 h1 {
   text-align: center;
-  font-family: "Bebas Neue", cursive;
-  font-size: 4.5rem;
+  font-family: 'Noto Serif', serif;
+  font-size: 20px;
+  color: black;
   margin: auto;
 }
 .col-md-6 {
@@ -11,9 +22,13 @@ h1 {
   margin: auto;
   
 }
-.badge{
+.btn{
     margin: auto;
+    font-family: 'Open Sans', sans-serif;
 }
-.contact{
+/* .contact{
    font-size: 30px;
-}
+} */
+/* .row-contact{
+  margin-left: 20px;
+} */

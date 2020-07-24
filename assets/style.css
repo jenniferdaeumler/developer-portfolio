@@ -1,23 +1,30 @@
-body{
- border: 5px;
- border-color: black;
+body {
+  min-height: 100vh;
+  /* height: 100%; */
+  margin: 0;
+  padding: 0;
+  position: relative;
+  border: 8px solid #000;
+  margin: 0;
 }
-
-.container-fluid {
+/* .container-fluid {
   font-family: "Roboto" sans-serif;
   margin: auto;
-}
+} */
 
-h1 {
+#introtext {
   text-align: center;
-  color: rgb(58, 57, 57);
+  font-size: 30px;
+  color:black;
+  font-family: 'Noto Serif', serif;
 }
 
-.col-md-9 {
-  font-family: "Roboto" sans-serif;
+
+.col-12{
+  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   text-align: center;
-  color: rgb(58, 57, 57);
+  color:black;
 }
 .col-md-3{
    text-align: center;
@@ -26,11 +33,16 @@ img {
   align-items: center;
 }
 
-.navbar-brand {
-  font-family: "Roboto", sans-serif;
+.navbar-light {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
 }
 
 .nav-link {
-  font-family: "Roboto" sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
 }
 
+.navbar-toggler{
+  color: black;
+}

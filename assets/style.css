@@ -46,3 +46,10 @@ img {
 .navbar-toggler{
   color: black;
 }
+
+
+@media (max-width: 414px) {
+.image-wrapper{
+  display: none;
+}
+}

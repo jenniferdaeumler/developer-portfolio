@@ -47,6 +47,9 @@ img {
   color: black;
 }
 
+.resume{
+  text-align: center;
+}
 
 @media (max-width: 414px) {
 .image-wrapper{

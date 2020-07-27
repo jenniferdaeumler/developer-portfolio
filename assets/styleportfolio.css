@@ -54,7 +54,15 @@ h1 {
   text-align: center;
   align-items: center;
 
-
 }
 
+.cardrow{
+  text-align: center;
+  margin: 0 auto;
+}
+
+.carddeck{
+  text-align: center;
+  margin: 0 auto;
+}
 

@@ -31,6 +31,7 @@ body {
 }
 img {
   align-items: center;
+  border-radius: 8%;
 }
 
 .navbar-light {
